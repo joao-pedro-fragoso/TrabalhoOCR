@@ -1,0 +1,1 @@
+Link para o dataset: https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset
